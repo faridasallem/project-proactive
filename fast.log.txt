@@ -1,0 +1,12 @@
+12/21/2024-04:36:52.902865  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:49489 -> 85.114.128.127:53
+12/21/2024-04:36:52.904546  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:49490 -> 85.114.128.127:53
+12/21/2024-04:36:52.916509  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:49491 -> 85.114.128.127:53
+12/21/2024-04:36:52.901928  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:49488 -> 85.114.128.127:53
+12/21/2024-04:36:56.338729  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:49492 -> 85.114.128.127:53
+12/21/2024-04:36:57.765941  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:49493 -> 85.114.128.127:53
+12/21/2024-04:37:54.059941  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:58724 -> 85.114.128.127:53
+12/21/2024-04:37:54.059238  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:58723 -> 85.114.128.127:53
+12/21/2024-04:37:54.060662  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:58725 -> 85.114.128.127:53
+12/21/2024-04:37:54.068148  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:58726 -> 85.114.128.127:53
+12/21/2024-04:37:56.976815  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:58727 -> 85.114.128.127:53
+12/21/2024-04:37:58.545283  [**] [1:100001:1] Blocked Trojan Communication to IP 85.114.128.127 [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.160.142:58728 -> 85.114.128.127:53
